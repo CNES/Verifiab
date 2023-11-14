@@ -13,7 +13,7 @@ To compile use `dune build`.
 
 ## Copyright
 
-David Hamelin, Space Tansportation Directorate, CNES
+David Hamelin, Space Transportation Directorate, CNES
 
 August 2023
 
